@@ -1,0 +1,1 @@
+# Pedoman rating konten Ryuuganime

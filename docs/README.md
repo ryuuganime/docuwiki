@@ -1,2 +1,2 @@
-# 🧠 Ryuuganime Docuwiki
+# 🧠 Ryuuganime Docuwiki <!-- {docsify-ignore-all} -->
 

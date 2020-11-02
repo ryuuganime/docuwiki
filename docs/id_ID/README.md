@@ -1,0 +1,1 @@
+# Selamat datang di Dokuwiki versi Bahasa Indonesia!
