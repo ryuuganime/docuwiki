@@ -10,18 +10,55 @@
     
     <!--STYLESHEET-->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet"/>
     <link 
         rel="stylesheet"
         href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
         title="docsify-darklight-theme"
         type="text/css"
     />
-    <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
     
     <!-- SCRIPTS -->
     <script src="https://kit.fontawesome.com/b443b76eae.js" crossorigin="anonymous"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sh.min.js"></script>
+
+    <!-- CUSTOM STYLING -->
+    <style type="text/css">
+        p {
+            text-align: justify;
+        }
+        /*
+        body p.warn, .igIndent {
+            text-indent: 0px;
+        }
+        */
+        .rTable {
+            display: block;
+            width: 100%;
+        }
+        .rTableHeading, .rTableBody, .rTableFoot, .rTableRow{
+            clear: both;
+        }
+        .rTableHead, .rTableFoot{
+            background-color: transparent;
+            font-weight: bold;
+        }
+        .rTableCell, .rTableHead {
+            border: 1px solid transparent;
+            float: left;
+            overflow: hidden;
+            padding: 3px 1.8%;
+            width: 10%;
+        }
+        .rTable:after {
+            visibility: hidden;
+            display: block;
+            font-size: 0;
+            content: " ";
+            clear: both;
+            height: 0;
+        }
+    </style>
 </head>
 <body>
     <div id="app"></div>
@@ -102,6 +139,11 @@
                 tabHeadings: true
             }
         }
+
+        // PWA Support
+        if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('sw.js')
+        }
     </script>
     <!-- LIBRARY -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -112,8 +154,8 @@
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@markbattistella/docsify-sidebarfooter@latest"></script>
-    <script src="//unpkg.com/docsify-material-icons/dist/docsify-material-icons.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 </body>
 </html>

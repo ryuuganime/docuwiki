@@ -1,4 +1,6 @@
 # Sistem rating konten media
+!> Halaman ini akan optimal jika dilihat melalui desktop.
+
 Sistem rating konten media adalah sistem untuk mengevaluasi konten dan melaporkan kesesuaian program televisi dan film untuk anak-anak, remaja, atau orang dewasa. Banyak negara memiliki sistem pemeringkatan sendiri dan proses pemeringkatan negara berbeda-beda berdasarkan prioritas lokalnya. Program dinilai oleh organisasi yang mengelola sistem, penyiar, atau produser konten.
 
 ## Tabel perbandingan
@@ -6,74 +8,50 @@ Sistem rating konten media adalah sistem untuk mengevaluasi konten dan melaporka
 Perbandingan sistem rating konten media saat ini, yang menunjukkan usia pada sumbu horizontal. Namun perlu diperhatikan bahwa kriteria khusus yang digunakan dalam menetapkan klasifikasi dapat sangat bervariasi dari satu negara ke negara lain. Dengan demikian, kode warna atau rentang usia tidak dapat secara langsung dibandingkan dari satu negara ke negara lain.
 
 _Key:_
-<ul>
-    <li>
-        <span style="background: white; border: solid black 1px; color: black;">
-            &nbsp;
-            <strong style="color:#000;">
-                Putih
-            </strong>
-            &nbsp;
-        </span>
-        &nbsp; &ndash;
-        <em>
+<div class="rTable">
+    <div class="rTableRow">
+        <div class="rTableCell">
+            <span style="background: white; border: solid black 1px;">&nbsp;<strong style="color:#000;">Putih</strong>&nbsp;</span>
+        </div>
+        <div class="rTableCell" style="width: 90% !important;">
             Tidak ada batasan: Cocok untuk segala usia / Ditujukan untuk pemirsa muda / Pengecualian / Tidak diberikan rating / Tidak ada rating yang berlaku.
-        </em>
-    </li>
-    <li>
-        <span style="background: yellow; border: solid black 1px; color: black;">
-            &nbsp;
-            <strong style="color:#000;">
-                Kuning
-            </strong>
-            &nbsp;
-        </span>
-        &nbsp;&ndash;
-        <em>
+        </div>
+    </div>
+    <div class="rTableRow">
+        <div class="rTableCell">
+            <span style="background: yellow; border: solid black 1px;">&nbsp;<strong style="color:#000;">Kuning</strong>&nbsp;</span>
+        </div>
+        <div class="rTableCell" style="width: 90% !important;">
             Tidak ada batasan: Bimbingan orang tua disarankan untuk rentang usia yang ditentukan.
-        </em>
-    </li>
-    <li>
-        <span style="background: purple; border: solid black 1px;">
-            &nbsp;
-            <strong style="color: white;">
-                Ungu
-            </strong>
-            &nbsp;
-        </span>
-        &nbsp; &ndash;
-        <em>
+        </div>
+    </div>
+    <div class="rTableRow">
+        <div class="rTableCell">
+            <span style="background: purple; border: solid black 1px;">&nbsp;<strong style="color:#FFF;">Ungu</strong>&nbsp;</span>
+        </div>
+        <div class="rTableCell" style="width: 90% !important;">
             Tidak ada batasan: Tidak direkomendasikan untuk penonton yang lebih muda, tetapi tidak dibatasi.
-        </em>
-    </li>
-    <li>
-        <span style="background: red; border: solid black 1px;">
-            &nbsp;
-            <strong style="color: white;">
-                Merah
-            </strong>
-            &nbsp;
-        </span>
-        &nbsp;&ndash;
-        <em>
+        </div>
+    </div>
+    <div class="rTableRow">
+        <div class="rTableCell">
+            <span style="background: red; border: solid black 1px;">&nbsp;<strong style="color:#FFF;">Merah</strong>&nbsp;</span>
+        </div>
+        <div class="rTableCell" style="width: 90% !important;">
             Dibatasi: Diperlukan pendampingan orang tua untuk penonton yang lebih muda.
-        </em>
-    </li>
-    <li>
-        <span style="background: black; border: solid black 1px;">
-            &nbsp;
-            <strong style="color: white;">
-                Hitam
-            </strong>
-            &nbsp;
-        </span>
-        &nbsp;&ndash;
-        <em>
-            Larangan: Eksklusif untuk audiens yang lebih tua / Dibatasi untuk audiens tertentu / Pembelian dengan pembatasan usia
-        </em>
-         / Diblokir.
-    </li>
-</ul>
+        </div>
+    </div>
+    <div class="rTableRow">
+        <div class="rTableCell">
+            <span style="background: black; border: solid black 1px;">&nbsp;<strong style="color:#FFF;">Hitam</strong>&nbsp;</span>
+        </div>
+        <div class="rTableCell" style="width: 90% !important;">
+            Larangan: Eksklusif untuk audiens yang lebih tua / Dibatasi untuk audiens tertentu / Pembelian dengan pembatasan usia / <i>diblokir</i>.
+        </div>
+    </div>
+</div>
+
+<br/>
 
 <table>
 <tbody>
@@ -384,7 +362,7 @@ Dalam sistem saat ini ada enam kategori peringkat:
 
 ## Perbandingan dengan sistem rating Ryuuganime
 
-Berikut ini adalah tabel konversi ke sistem rating Ryuuganime. Perhatikan bahwa penggunaan tabel ini **bukan** bertujuan untuk mengonversi ke sistem peringkat Ryuuganime. Silakan merujuk ke [Panduan rating konten](id_ID/Pedoman_rating_konten.md) untuk sistem peringkat konversi.
+Berikut ini adalah tabel konversi ke sistem rating Ryuuganime. Perhatikan bahwa penggunaan tabel ini **bukan** bertujuan untuk mengonversi ke sistem peringkat Ryuuganime. Silakan merujuk ke [Pedoman rating konten](id_ID/Pedoman_rating_konten.md) untuk sistem peringkat konversi.
 
 <table>
     <tbody>
