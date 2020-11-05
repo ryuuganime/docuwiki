@@ -3,7 +3,7 @@
 !> Berikut ini adalah seperangkat pedoman untuk berkontribusi ke `ryuuganime-db`. Sebagian besar dari dokumen ini adalah pedoman, bukan aturan. Gunakan penilaian terbaik Anda, dan jangan ragu untuk mengusulkan perubahan pada dokumen ini dalam pull request.
 
 ## Kode Etik
-Proyek ini, juga semua kontributor yang berpartisipasi di repo berikut diatur oleh [Kode Etik Contributor Covenant versi 2.0](id_ID/Kode_etik.md). Dengan berpartisipasi, Anda diharapkan untuk menjunjung tinggi kode etik ini. Laporkan perilaku yang tidak dapat diterima kepada [contact@ryuuganime.my.id](mailto:contact@ryuuganime.my.id).
+Proyek ini, juga semua kontributor yang berpartisipasi di repo berikut diatur oleh [Kode Etik Contributor Covenant versi 2.0](Kode_etik.md). Dengan berpartisipasi, Anda diharapkan untuk menjunjung tinggi kode etik ini. Laporkan perilaku yang tidak dapat diterima kepada [contact@ryuuganime.my.id](mailto:contact@ryuuganime.my.id).
 
 ## Memulai
 ### Ekstensi, aplikasi, dan layanan yang digunakan

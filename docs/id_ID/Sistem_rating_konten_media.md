@@ -281,7 +281,7 @@ _Key:_
 ## Penggunaan
 ### Ryuuganime
 
-_Artikel utama: [Pedoman rating konten](id_ID/Pedoman_rating_konten.md)_
+_Artikel utama: [Pedoman rating konten](Pedoman_rating_konten.md)_
 
 Sistem rating yang digunakan oleh Ryuuganime adalah rating buatan yang mengacu pada sistem rating Indonesia dan Amerika Serikat dengan beberapa klasifikasi yang diambil dari aturan pemeringkatan Korea Selatan.
 
@@ -362,7 +362,7 @@ Dalam sistem saat ini ada enam kategori peringkat:
 
 ## Perbandingan dengan sistem rating Ryuuganime
 
-Berikut ini adalah tabel konversi ke sistem rating Ryuuganime. Perhatikan bahwa penggunaan tabel ini **bukan** bertujuan untuk mengonversi ke sistem peringkat Ryuuganime. Silakan merujuk ke [Pedoman rating konten](id_ID/Pedoman_rating_konten.md) untuk sistem peringkat konversi.
+Berikut ini adalah tabel konversi ke sistem rating Ryuuganime. Perhatikan bahwa penggunaan tabel ini **bukan** bertujuan untuk mengonversi ke sistem peringkat Ryuuganime. Silakan merujuk ke [Pedoman rating konten](Pedoman_rating_konten.md) untuk sistem peringkat konversi.
 
 <table>
     <tbody>
